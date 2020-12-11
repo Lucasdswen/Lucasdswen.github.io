@@ -348,6 +348,9 @@
                                     padding: 10px 10px 120px 1px;
                                     margin: 0;
                                 }
+                              #daltonico{
+                                     margin-left: 90%;
+                                  }
                                 label {
                                     visibility: visible;
                                 }
@@ -550,6 +553,9 @@
                                         padding: 0;
                                         margin: 10px auto;
                                     }
+                                  #daltonico{
+                                margin-left: 75%;
+                                        }
                                     .fim {
                                         display: block;
                                     }
